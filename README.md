@@ -1,3 +1,3 @@
-# Multi-stage traing scheme for regressions and physic-informed neural networks
+# Multi-stage training scheme for neural networks
 
-code assi
+Codes associated with the manuscript titled "Multi-stage neural networks: Function approximator of machine precision" authored by Yongji wang and Ching-Yao Lai.
