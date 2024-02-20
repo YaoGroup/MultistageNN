@@ -1,3 +1,3 @@
-# Multi-stage neural networks: Function approximator of machine precision
+# Multi-stage traing scheme for regressions and physic-informed neural networks
 
 code assi
