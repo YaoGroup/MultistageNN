@@ -8,7 +8,7 @@ Deep learning techniques are increasingly applied to scientific problems, where 
 
 # Citation
 Yongji Wang and Ching-Yao Lai.
-*Multi-stage neural networks: Function approximator of machine precision.* Journal of Computational Physics, vol. 504, 2024, 112865, ISSN 0021-9991, https://doi.org/10.1016/j.jcp.2024.112865.
+*Multi-stage neural networks: Function approximator of machine precision.* Journal of Computational Physics, Volume 504, 2024, 112865, ISSN 0021-9991, https://doi.org/10.1016/j.jcp.2024.112865.
 
 **BibTex:**
 ```
